@@ -1,0 +1,61 @@
+Checking for hooks in ntd1l.dll
+Checking for hooks in kern3l32.dll
+Checking for hooks in ntdll.dll
+Detected hook ntdll.dll!KiUserApcDispatcher
+Detected hook ntdll.dll!LdrLoadDll
+Detected hook ntdll.dll!NtAllocateVirtualMemory
+Detected hook ntdll.dll!NtCreateThreadEx
+Detected hook ntdll.dll!NtCreateUserProcess
+Detected hook ntdll.dll!NtFreeVirtualMemory
+Detected hook ntdll.dll!NtLoadDriver
+Detected hook ntdll.dll!NtMapUserPhysicalPages
+Detected hook ntdll.dll!NtMapViewOfSection
+Detected hook ntdll.dll!NtOpenProcess
+Detected hook ntdll.dll!NtProtectVirtualMemory
+Detected hook ntdll.dll!NtQuerySystemInformation
+Detected hook ntdll.dll!NtQuerySystemInformationEx
+Detected hook ntdll.dll!NtQueueApcThread
+Detected hook ntdll.dll!NtQueueApcThreadEx
+Detected hook ntdll.dll!NtReadVirtualMemory
+Detected hook ntdll.dll!NtResumeThread
+Detected hook ntdll.dll!NtSetContextThread
+Detected hook ntdll.dll!NtSetInformationProcess
+Detected hook ntdll.dll!NtSetInformationThread
+Detected hook ntdll.dll!NtTerminateProcess
+Detected hook ntdll.dll!NtUnmapViewOfSection
+Detected hook ntdll.dll!NtWriteVirtualMemory
+Detected hook ntdll.dll!RtlAddVectoredExceptionHandler
+Detected hook ntdll.dll!RtlGetNativeSystemInformation
+Detected hook ntdll.dll!ZwAllocateVirtualMemory
+Detected hook ntdll.dll!ZwCreateThreadEx
+Detected hook ntdll.dll!ZwCreateUserProcess
+Detected hook ntdll.dll!ZwFreeVirtualMemory
+Detected hook ntdll.dll!ZwLoadDriver
+Detected hook ntdll.dll!ZwMapUserPhysicalPages
+Detected hook ntdll.dll!ZwMapViewOfSection
+Detected hook ntdll.dll!ZwOpenProcess
+Detected hook ntdll.dll!ZwProtectVirtualMemory
+Detected hook ntdll.dll!ZwQuerySystemInformation
+Detected hook ntdll.dll!ZwQuerySystemInformationEx
+Detected hook ntdll.dll!ZwQueueApcThread
+Detected hook ntdll.dll!ZwQueueApcThreadEx
+Detected hook ntdll.dll!ZwReadVirtualMemory
+Detected hook ntdll.dll!ZwResumeThread
+Detected hook ntdll.dll!ZwSetContextThread
+Detected hook ntdll.dll!ZwSetInformationProcess
+Detected hook ntdll.dll!ZwSetInformationThread
+Detected hook ntdll.dll!ZwTerminateProcess
+Detected hook ntdll.dll!ZwUnmapViewOfSection
+Detected hook ntdll.dll!ZwWriteVirtualMemory
+Checking for hooks in KERNEL32.DLL
+Detected hook KERNEL32.DLL!Wow64SetThreadContext
+Checking for hooks in KERNELBASE.dll
+Detected hook KERNELBASE.dll!CopyFileExW
+Detected hook KERNELBASE.dll!CreateProcessInternalW
+Detected hook KERNELBASE.dll!LoadLibraryA
+Detected hook KERNELBASE.dll!UnhandledExceptionFilter
+Checking for hooks in apphelp.dll
+Checking for hooks in ADVAPI32.dll
+Checking for hooks in msvcrt.dll
+Checking for hooks in sechost.dll
+Checking for hooks in RPCRT4.dll
