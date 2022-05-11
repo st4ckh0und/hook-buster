@@ -103,7 +103,7 @@ int main(int argc, char* argv[])
 							void* mapped = (void*)((PBYTE)base + offset);
 
 							if (memcmp(function, mapped, 5) != 0)
-								printf("Detected hook %S!%s\n", basename->Buffer, name);
+								printf("Detected hook in %S!%s\n", basename->Buffer, name);
 						}
 					}
 
